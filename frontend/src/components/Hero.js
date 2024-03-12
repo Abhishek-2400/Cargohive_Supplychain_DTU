@@ -27,7 +27,7 @@ function Hero() {
             </h1>
 
             <p>Simplify your supply chain, amplify your success</p>
-            
+
         </div>
     );
 };

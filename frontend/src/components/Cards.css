@@ -5,19 +5,23 @@ video {
     position: absolute;
     z-index: -100;
 }
-.links{
+
+.links {
     color: beige;
     cursor: pointer;
-}
-.cards_item_text a{
-    text-decoration:none;
+    text-decoration: none;
 }
 
-.cards h1{
+.cards_item_text a {
+    text-decoration: none;
+}
+
+.cards h1 {
     margin-top: 16px;
     color: #EB455F !important;
 }
-.cards li{
+
+.cards li {
     cursor: pointer;
 }
 
