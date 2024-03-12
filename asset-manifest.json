@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Supplychain/static/css/main.e860c32d.css",
+    "main.js": "/Supplychain/static/js/main.f638aa85.js",
+    "static/media/cargo1.mp4": "/Supplychain/static/media/cargo1.23128a142fdcb2fe421c.mp4",
+    "static/media/video1.mp4": "/Supplychain/static/media/video1.8b473a6d625b373e7e05.mp4",
+    "static/media/product_track.jpg": "/Supplychain/static/media/product_track.ff46e4dc6067cf1f67af.jpg",
+    "static/media/marketplace.jpg": "/Supplychain/static/media/marketplace.ae4ee3412e18c548eff7.jpg",
+    "static/media/product_track1.jpeg": "/Supplychain/static/media/product_track1.dc536a9166afe4ff8970.jpeg",
+    "static/media/white.png": "/Supplychain/static/media/white.92512e97bef578eeb3e9.png",
+    "static/media/travel_logo.jpg": "/Supplychain/static/media/travel_logo.2baf5eb9400af7ab6ff9.jpg",
+    "index.html": "/Supplychain/index.html",
+    "main.e860c32d.css.map": "/Supplychain/static/css/main.e860c32d.css.map",
+    "main.f638aa85.js.map": "/Supplychain/static/js/main.f638aa85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e860c32d.css",
+    "static/js/main.f638aa85.js"
+  ]
+}
