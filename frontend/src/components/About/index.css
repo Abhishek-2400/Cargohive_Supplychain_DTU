@@ -1,5 +1,4 @@
 video {
-  -o-object-fit: cover;
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -77,34 +76,64 @@ video {
   box-shadow: 0 0 20px 0px rgb(202, 202, 196);
 }
 
-.cubespinner .face1 {
+.face1 {
   transform: translateZ(100px);
-  color: #cd183f;
+  color: #e51643;
 }
 
-.cubespinner .face2 {
+.face2 {
   transform: rotateY(90deg) translateZ(100px);
   color: #f24e08;
 }
 
-.cubespinner .face3 {
+.face3 {
   transform: rotateY(90deg) rotateX(90deg) translateZ(100px);
   color: black;
 }
 
-.cubespinner .face4 {
+.face4 {
   transform: rotateY(180deg) rotateZ(90deg) translateZ(100px);
   color: black;
 }
 
-.cubespinner .face5 {
+.face5 {
   transform: rotateY(-90deg) rotateZ(90deg) translateZ(100px);
   color: #f1d60d;
 }
 
-.cubespinner .face6 {
+.face6 {
   transform: rotateX(-90deg) translateZ(100px);
-  color: #ec4d28;
+}
+
+
+.face1 svg {
+  background-color: #bce516;
+  border-radius: 10px;
+}
+
+.face2 svg {
+  background-color: #35e516;
+  border-radius: 10px;
+}
+
+.face3 svg {
+  background-color: #e516b5;
+  border-radius: 10px;
+}
+
+.face4 svg {
+  background-color: #03153a;
+  border-radius: 10px;
+}
+
+.face5 svg {
+  background-color: #450531;
+  border-radius: 10px;
+}
+
+.face6 svg {
+  background-color: #e51643;
+  border-radius: 10px;
 }
 
 @keyframes spincube {
