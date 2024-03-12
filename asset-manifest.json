@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Supplychain/static/css/main.420b2957.css",
-    "main.js": "/Supplychain/static/js/main.51f50170.js",
+    "main.css": "/Supplychain/static/css/main.b7856b67.css",
+    "main.js": "/Supplychain/static/js/main.7695f501.js",
     "static/media/cargo1.mp4": "/Supplychain/static/media/cargo1.23128a142fdcb2fe421c.mp4",
     "static/media/video1.mp4": "/Supplychain/static/media/video1.8b473a6d625b373e7e05.mp4",
     "static/media/product_track.jpg": "/Supplychain/static/media/product_track.ff46e4dc6067cf1f67af.jpg",
@@ -10,11 +10,11 @@
     "static/media/travel_logo.jpg": "/Supplychain/static/media/travel_logo.2baf5eb9400af7ab6ff9.jpg",
     "static/media/blue.jpeg": "/Supplychain/static/media/blue.df43a3a208fb8468f027.jpeg",
     "index.html": "/Supplychain/index.html",
-    "main.420b2957.css.map": "/Supplychain/static/css/main.420b2957.css.map",
-    "main.51f50170.js.map": "/Supplychain/static/js/main.51f50170.js.map"
+    "main.b7856b67.css.map": "/Supplychain/static/css/main.b7856b67.css.map",
+    "main.7695f501.js.map": "/Supplychain/static/js/main.7695f501.js.map"
   },
   "entrypoints": [
-    "static/css/main.420b2957.css",
-    "static/js/main.51f50170.js"
+    "static/css/main.b7856b67.css",
+    "static/js/main.7695f501.js"
   ]
 }
